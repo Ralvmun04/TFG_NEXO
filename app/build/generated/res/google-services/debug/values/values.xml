@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1023531523323</string>
+    <string name="google_api_key" translatable="false">AIzaSyBT-BNw74LkvNdNHsqIqXlEUt9mm28r0jk</string>
+    <string name="google_app_id" translatable="false">1:1023531523323:android:bec49f6b198c800788a45e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBT-BNw74LkvNdNHsqIqXlEUt9mm28r0jk</string>
+    <string name="google_storage_bucket" translatable="false">nexo-4e96a.firebasestorage.app</string>
+    <string name="project_id" translatable="false">nexo-4e96a</string>
+</resources>
