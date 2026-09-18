@@ -101,11 +101,11 @@ El proyecto sigue una arquitectura limpia basada en **MVVM (Model-View-ViewModel
 
 | Pantalla de Carga | Inicio de Sesión | Registro |
 | :---: | :---: | :---: |
-| ![Pantalla de Carga](pantallacarga.PNG) | ![Inicio de Sesión](iniciosesion.png) | ![Registro](registro.png) |
+| ![Pantalla de Carga](pantallacarga.PNG) | ![Inicio de Sesión](iniciosesion.PNG) | ![Registro](registro.PNG) |
 
 | Pantalla Principal (Bases de Datos) | Vista Comprimida | Consultas con IA |
 | :---: | :---: | :---: |
-| ![Pantalla Principal](pantallaprincipal.png) | ![Vista Comprimida](vistacomprimida.png) | ![Consultas con IA](capturaa.png) |
+| ![Pantalla Principal](pantallaprincipal.PNG) | ![Vista Comprimida](vistacomprimida.PNG) | ![Consultas con IA](capturaa.PNG) |
 
 ---
 
