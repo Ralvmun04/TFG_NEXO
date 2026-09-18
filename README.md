@@ -97,17 +97,15 @@ El proyecto sigue una arquitectura limpia basada en **MVVM (Model-View-ViewModel
 
 ```
 
----
-
 ## 📱 Capturas de Pantalla y Wireframes
 
 | Pantalla de Carga | Inicio de Sesión | Registro |
-| --- | --- | --- |
-|  |  |  |
+| :---: | :---: | :---: |
+| ![Pantalla de Carga](pantallacarga.png) | ![Inicio de Sesión](iniciosesion.png) | ![Registro](registro.png) |
 
 | Pantalla Principal (Bases de Datos) | Vista Comprimida | Consultas con IA |
-| --- | --- | --- |
-|  |  |  |
+| :---: | :---: | :---: |
+| ![Pantalla Principal](pantallaprincipal.png) | ![Vista Comprimida](vistacomprimida.png) | ![Consultas con IA](capturaa.png) |
 
 ---
 
