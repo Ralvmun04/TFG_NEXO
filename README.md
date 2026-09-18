@@ -105,7 +105,7 @@ El proyecto sigue una arquitectura limpia basada en **MVVM (Model-View-ViewModel
 
 | Pantalla Principal (Bases de Datos) | Vista Comprimida | Consultas con IA |
 | :---: | :---: | :---: |
-| ![Pantalla Principal](pantallaprincipal.PNG) | ![Vista Comprimida](vistacomprimida.PNG) | ![Consultas con IA](capturaa.PNG) |
+| ![Pantalla Principal](pantallaprincipal.PNG) | ![Vista Comprimida](vistacomprimida.PNG) | ![Consultas con IA](Capturaa.PNG) |
 
 ---
 
